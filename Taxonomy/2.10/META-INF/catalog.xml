@@ -3,8 +3,8 @@
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
 
   <!--Reporting Taxonomies -->
-  <rewriteURI uriStartString="https://sunnylnct007.github.io/XbrlHelper/Taxonomy2.10/eu/fr/xbrl/crr/fws/pay/gl-2020-01/2020-02-29/" rewritePrefix="../www.eba.europa.eu/eu/fr/xbrl/crr/fws/pay/gl-2020-01/2020-02-29/" />
-  <rewriteURI uriStartString="https://sunnylnct007.github.io/XbrlHelper/Taxonomy2.10/eu/fr/xbrl/crr/fws/fp/gl-2019-05/2020-02-29/" rewritePrefix="../www.eba.europa.eu/eu/fr/xbrl/crr/fws/fp/gl-2019-05/2020-02-29/" />
-  <rewriteURI uriStartString="https://sunnylnct007.github.io/XbrlHelper/Taxonomy2.10/eu/fr/xbrl/crr/fws/rem/gl-2014-07/2020-02-29/" rewritePrefix="../www.eba.europa.eu/eu/fr/xbrl/crr/fws/rem/gl-2014-07/2020-02-29/" />
+  <rewriteURI uriStartString="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/eu/fr/xbrl/crr/fws/pay/gl-2020-01/2020-02-29/" rewritePrefix="../www.eba.europa.eu/eu/fr/xbrl/crr/fws/pay/gl-2020-01/2020-02-29/" />
+  <rewriteURI uriStartString="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/eu/fr/xbrl/crr/fws/fp/gl-2019-05/2020-02-29/" rewritePrefix="../www.eba.europa.eu/eu/fr/xbrl/crr/fws/fp/gl-2019-05/2020-02-29/" />
+  <rewriteURI uriStartString="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/eu/fr/xbrl/crr/fws/rem/gl-2014-07/2020-02-29/" rewritePrefix="../www.eba.europa.eu/eu/fr/xbrl/crr/fws/rem/gl-2014-07/2020-02-29/" />
 
 </catalog>
