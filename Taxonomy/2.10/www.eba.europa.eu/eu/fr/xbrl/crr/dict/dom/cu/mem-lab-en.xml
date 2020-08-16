@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?taxonomy-version 2.10.0.0 ?> <?taxonomy-set-overall-version 2.10.0.0 ?>
 <!--(C) EBA-->
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
@@ -409,7 +409,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_MRO" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Ouguiya</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_MRO" xlink:to="label_eba_MRO" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_TOP" xlink:label="loc_eba_TOP" />
-    <link:label xlink:type="resource" xlink:label="label_eba_TOP" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Pa’anga</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_TOP" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Pa�anga</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_TOP" xlink:to="label_eba_TOP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_PKR" xlink:label="loc_eba_PKR" />
     <link:label xlink:type="resource" xlink:label="label_eba_PKR" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Pakistan Rupee</link:label>

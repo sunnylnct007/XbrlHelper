@@ -1,4 +1,4 @@
-ï»¿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?taxonomy-version 2.10.0.0 ?> <?taxonomy-set-overall-version 2.10.0.0 ?>
 <!--(C) EBA-->
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
@@ -127,7 +127,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_AF" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">AFGHANISTAN</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_AF" xlink:to="label_eba_AF" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_AX" xlink:label="loc_eba_AX" />
-    <link:label xlink:type="resource" xlink:label="label_eba_AX" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Ã…LAND ISLANDS</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_AX" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">ÅLAND ISLANDS</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_AX" xlink:to="label_eba_AX" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_DZ" xlink:label="loc_eba_DZ" />
     <link:label xlink:type="resource" xlink:label="label_eba_DZ" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">ALGERIA</link:label>
@@ -274,7 +274,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_CR" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">COSTA RICA</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_CR" xlink:to="label_eba_CR" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_CI" xlink:label="loc_eba_CI" />
-    <link:label xlink:type="resource" xlink:label="label_eba_CI" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CÃ”TE D'IVOIRE</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_CI" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CÔTE D'IVOIRE</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_CI" xlink:to="label_eba_CI" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_HR" xlink:label="loc_eba_HR" />
     <link:label xlink:type="resource" xlink:label="label_eba_HR" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CROATIA</link:label>
@@ -283,7 +283,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_CU" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CUBA</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_CU" xlink:to="label_eba_CU" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_CW" xlink:label="loc_eba_CW" />
-    <link:label xlink:type="resource" xlink:label="label_eba_CW" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CURAÃ‡AO</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_CW" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CURAÇAO</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_CW" xlink:to="label_eba_CW" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_DJ" xlink:label="loc_eba_DJ" />
     <link:label xlink:type="resource" xlink:label="label_eba_DJ" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">DJIBOUTI</link:label>
@@ -589,13 +589,13 @@
     <link:label xlink:type="resource" xlink:label="label_eba_QA" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">QATAR</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_QA" xlink:to="label_eba_QA" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_RE" xlink:label="loc_eba_RE" />
-    <link:label xlink:type="resource" xlink:label="label_eba_RE" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">RÃ‰UNION</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_RE" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">RÉUNION</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_RE" xlink:to="label_eba_RE" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_RW" xlink:label="loc_eba_RW" />
     <link:label xlink:type="resource" xlink:label="label_eba_RW" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">RWANDA</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_RW" xlink:to="label_eba_RW" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_BL" xlink:label="loc_eba_BL" />
-    <link:label xlink:type="resource" xlink:label="label_eba_BL" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SAINT BARTHÃ‰LEMY</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_BL" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SAINT BARTHÉLEMY</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_BL" xlink:to="label_eba_BL" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_SH" xlink:label="loc_eba_SH" />
     <link:label xlink:type="resource" xlink:label="label_eba_SH" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</link:label>
@@ -799,7 +799,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba__1N" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">MIGA (Multilateral Investment Guarantee Agency)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba__1N" xlink:to="label_eba__1N" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba__1O" xlink:label="loc_eba__1O" />
-    <link:label xlink:type="resource" xlink:label="label_eba__1O" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">UNICEF (United Nations Childrenâ€™s Fund)</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba__1O" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">UNICEF (United Nations Children’s Fund)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba__1O" xlink:to="label_eba__1O" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba__1P" xlink:label="loc_eba__1P" />
     <link:label xlink:type="resource" xlink:label="label_eba__1P" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">UNHCR (United Nations High Commissioner for Refugees)</link:label>
@@ -934,7 +934,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba__5M" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">AMF (Arab Monetary Fund)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba__5M" xlink:to="label_eba__5M" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba__5N" xlink:label="loc_eba__5N" />
-    <link:label xlink:type="resource" xlink:label="label_eba__5N" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">BADEA (Banque arabe pour le dÃ©veloppement Ã©conomique en Afrique)</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba__5N" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">BADEA (Banque arabe pour le développement économique en Afrique)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba__5N" xlink:to="label_eba__5N" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba__5O" xlink:label="loc_eba__5O" />
     <link:label xlink:type="resource" xlink:label="label_eba__5O" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">BCEAO (Banque Centrale des Etats de l'Afrique de l'Ouest)</link:label>
@@ -949,7 +949,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba__5R" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Asian Development Fund</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba__5R" xlink:to="label_eba__5R" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba__5S" xlink:label="loc_eba__5S" />
-    <link:label xlink:type="resource" xlink:label="label_eba__5S" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Fonds spÃ©cial unifiÃ© de dÃ©veloppement</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba__5S" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Fonds spécial unifié de développement</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba__5S" xlink:to="label_eba__5S" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba__5T" xlink:label="loc_eba__5T" />
     <link:label xlink:type="resource" xlink:label="label_eba__5T" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CABEI (Central American Bank for Economic Integration)</link:label>
@@ -964,7 +964,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba__5W" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">BEAC (Banque des Etats de l'Afrique Centrale)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba__5W" xlink:to="label_eba__5W" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba__5X" xlink:label="loc_eba__5X" />
-    <link:label xlink:type="resource" xlink:label="label_eba__5X" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CEMAC (CommunautÃ© Ã‰conomique et MonÃ©taire de l'Afrique Centrale)</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba__5X" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CEMAC (Communauté Économique et Monétaire de l'Afrique Centrale)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba__5X" xlink:to="label_eba__5X" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba__5Y" xlink:label="loc_eba__5Y" />
     <link:label xlink:type="resource" xlink:label="label_eba__5Y" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">ECCU (Eastern Caribbean Currency Union)</link:label>
@@ -1003,7 +1003,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba__6J" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">INTELSAT (International Telecommunications Satellite Organisation)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba__6J" xlink:to="label_eba__6J" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba__6K" xlink:label="loc_eba__6K" />
-    <link:label xlink:type="resource" xlink:label="label_eba__6K" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">EBU/UER (European Broadcasting Union/Union europÃ©enne de radio-tÃ©lÃ©vision)</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba__6K" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">EBU/UER (European Broadcasting Union/Union européenne de radio-télévision)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba__6K" xlink:to="label_eba__6K" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba__6L" xlink:label="loc_eba__6L" />
     <link:label xlink:type="resource" xlink:label="label_eba__6L" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">EUMETSAT (European Organisation for the Exploitation of Meteorological Satellites)</link:label>

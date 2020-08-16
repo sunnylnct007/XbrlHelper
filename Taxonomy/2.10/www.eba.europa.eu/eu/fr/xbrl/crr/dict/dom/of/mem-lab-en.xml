@@ -1,4 +1,4 @@
-ï»¿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?taxonomy-version 2.10.0.0 ?> <?taxonomy-set-overall-version 2.10.0.0 ?>
 <!--(C) EBA-->
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
@@ -23,9 +23,9 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x6" xlink:label="loc_eba_x6" />
     <link:label xlink:type="resource" xlink:label="label_eba_x6" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Non-eligible as CET1 due to reversible situations</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x6" xlink:to="label_eba_x6" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x6_1" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/documentation">CRR 28 Â¶1.b
-CRR 28 Â¶1.l
-CRR 28 Â¶1.m</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x6_1" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/documentation">CRR 28 ¶1.b
+CRR 28 ¶1.l
+CRR 28 ¶1.m</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x6" xlink:to="label_eba_x6_1" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x7" xlink:label="loc_eba_x7" />
     <link:label xlink:type="resource" xlink:label="label_eba_x7" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Non-eligible as T2 due to reversible situations</link:label>
@@ -41,7 +41,7 @@ CRR 28 Â¶1.m</link:label>
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x10" xlink:label="loc_eba_x10" />
     <link:label xlink:type="resource" xlink:label="label_eba_x10" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Total own funds</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x10" xlink:to="label_eba_x10" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x10_1" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/documentation">CRR 4 Â¶118
+    <link:label xlink:type="resource" xlink:label="label_eba_x10_1" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/documentation">CRR 4 ¶118
 CRR 72</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x10" xlink:to="label_eba_x10_1" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x11" xlink:label="loc_eba_x11" />

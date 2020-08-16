@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?taxonomy-version 2.10.0.0 ?> <?taxonomy-set-overall-version 2.10.0.0 ?>
 <!--(C) EBA-->
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/LQ/LQ1" xlink:type="simple" xlink:href="hier.xsd#eba_LQ1" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/LQ/LQ2" xlink:type="simple" xlink:href="hier.xsd#eba_LQ2" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/LQ/LQ3" xlink:type="simple" xlink:href="hier.xsd#eba_LQ3" />
-  <link:presentationLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/LQ/LQ1">
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/LQ/LQ1" xlink:type="simple" xlink:href="hier.xsd#eba_LQ1" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/LQ/LQ2" xlink:type="simple" xlink:href="hier.xsd#eba_LQ2" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/LQ/LQ3" xlink:type="simple" xlink:href="hier.xsd#eba_LQ3" />
+  <link:presentationLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/LQ/LQ1">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_LQ" xlink:label="loc_eba_LQ" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_LQ" xlink:to="loc_eba_x0" order="1" />
@@ -14,7 +14,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x103" xlink:label="loc_eba_x103" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_x0" xlink:to="loc_eba_x103" order="2" />
   </link:presentationLink>
-  <link:presentationLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/LQ/LQ2">
+  <link:presentationLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/LQ/LQ2">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_LQ" xlink:label="loc_eba_LQ" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_LQ" xlink:to="loc_eba_x0" order="1" />
@@ -47,7 +47,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x78" xlink:label="loc_eba_x78" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_x155" xlink:to="loc_eba_x78" order="2" />
   </link:presentationLink>
-  <link:presentationLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/LQ/LQ3">
+  <link:presentationLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/LQ/LQ3">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_LQ" xlink:label="loc_eba_LQ" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x192" xlink:label="loc_eba_x192" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_LQ" xlink:to="loc_eba_x192" order="1" />

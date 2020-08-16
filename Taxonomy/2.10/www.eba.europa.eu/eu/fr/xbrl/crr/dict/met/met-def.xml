@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?taxonomy-version 2.10.0.0 ?> <?taxonomy-set-overall-version 2.10.0.0 ?>
 <!--(C) EBA-->
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd http://xbrl.org/2005/xbrldt http://www.xbrl.org/2005/xbrldt-2005.xsd "> 
@@ -6,13 +6,13 @@
 	<link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/all" xlink:type="simple" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#all" />
 	<link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:type="simple" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#hypercube-dimension" />
 	
-	<link:roleRef roleURI="http://www.eba.europa.eu/eu/fr/xbrl/ext/BlockDefaultUseOfMetrics" xlink:type="simple" xlink:href="http://www.eba.europa.eu/eu/fr/xbrl/ext/model.xsd#BlockDefaultUseOfMetrics" />
+	<link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/eu/fr/xbrl/ext/BlockDefaultUseOfMetrics" xlink:type="simple" xlink:href="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/eu/fr/xbrl/ext/model.xsd#BlockDefaultUseOfMetrics" />
 
 	<!-- linking all metrics to the null hypercube is used to prohibit the use of metrics by "accident"/default, i.e. unless specifically allowed by an entrypoint -->
-	<link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/eu/fr/xbrl/ext/BlockDefaultUseOfMetrics">
+	<link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/eu/fr/xbrl/ext/BlockDefaultUseOfMetrics">
 		<link:loc xlink:type="locator" xlink:href="http://www.eurofiling.info/eu/fr/xbrl/ext/model.xsd#hyp" xlink:label="loc_hyp" />
 		
-		<link:loc xlink:type="locator" xlink:href="http://www.eba.europa.eu/eu/fr/xbrl/ext/model.xsd#eba_NULL" xlink:label="loc_eba_NULL" />
+		<link:loc xlink:type="locator" xlink:href="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/eu/fr/xbrl/ext/model.xsd#eba_NULL" xlink:label="loc_eba_NULL" />
 		<link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_hyp" xlink:to="loc_eba_NULL" order="0" use="optional" />
 		
 		<link:loc xlink:type="locator" xlink:href="met.xsd#eba_mi1" xlink:label="loc_eba_mi1" />

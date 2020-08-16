@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?taxonomy-version 2.10.0.0 ?> <?taxonomy-set-overall-version 2.10.0.0 ?>
 <!--(C) EBA-->
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
@@ -262,7 +262,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x88" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">AT - Sparkassen-Haftungs AG</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x88" xlink:to="label_eba_x88" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x89" xlink:label="loc_eba_x89" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x89" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">AT - Österreichische Raiffeisen-Einlagensicherung eGen</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x89" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">AT - �sterreichische Raiffeisen-Einlagensicherung eGen</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x89" xlink:to="label_eba_x89" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x90" xlink:label="loc_eba_x90" />
     <link:label xlink:type="resource" xlink:label="label_eba_x90" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">AT - Volksbank Einlagensicherung eG</link:label>
@@ -271,19 +271,19 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x91" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">AT - Hypo Haftungs-Gesellschaft m.b.H.</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x91" xlink:to="label_eba_x91" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x92" xlink:label="loc_eba_x92" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x92" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">BE - Garantiefonds voor financiële diensten / Fonds de garantie pour les services financiers</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x92" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">BE - Garantiefonds voor financi�le diensten / Fonds de garantie pour les services financiers</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x92" xlink:to="label_eba_x92" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x93" xlink:label="loc_eba_x93" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x93" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">BG - Фондът за гарантиране на влоговете в банките</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x93" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">BG - ?????? ?? ??????????? ?? ????????? ? ???????</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x93" xlink:to="label_eba_x93" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x94" xlink:label="loc_eba_x94" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x94" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">HR - Državna agencija za osiguranje štednih uloga i sanaciju banaka</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x94" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">HR - Dr�avna agencija za osiguranje �tednih uloga i sanaciju banaka</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x94" xlink:to="label_eba_x94" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x95" xlink:label="loc_eba_x95" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x95" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CY - Σύστημα Εγγύησης των Καταθέσεων και Εξυγίανσης Πιστωτικών και Άλλων Ιδρυμάτων</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x95" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CY - S?st?�a ?????s?? t?? ?ata??se?? ?a? ?????a?s?? ??st?t???? ?a? ????? ?d??�?t??</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x95" xlink:to="label_eba_x95" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x96" xlink:label="loc_eba_x96" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x96" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CZ - Garanční systém finančního trhu</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x96" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CZ - Garancn� syst�m financn�ho trhu</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x96" xlink:to="label_eba_x96" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x97" xlink:label="loc_eba_x97" />
     <link:label xlink:type="resource" xlink:label="label_eba_x97" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">DK - Garantiformuen</link:label>
@@ -295,13 +295,13 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x99" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">FI - Talletussuojarahasto</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x99" xlink:to="label_eba_x99" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x100" xlink:label="loc_eba_x100" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x100" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">FR - Fonds de Garantie des Dépôts et de Résolution</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x100" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">FR - Fonds de Garantie des D�p�ts et de R�solution</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x100" xlink:to="label_eba_x100" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x101" xlink:label="loc_eba_x101" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x101" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">DE - Entschädigungseinrichtung deutscher Banken GmbH</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x101" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">DE - Entsch�digungseinrichtung deutscher Banken GmbH</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x101" xlink:to="label_eba_x101" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x102" xlink:label="loc_eba_x102" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x102" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">DE - Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x102" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">DE - Entsch�digungseinrichtung des Bundesverbandes �ffentlicher Banken Deutschlands GmbH</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x102" xlink:to="label_eba_x102" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x103" xlink:label="loc_eba_x103" />
     <link:label xlink:type="resource" xlink:label="label_eba_x103" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">DE - Sicherungseinrichtung des Deutschen Sparkassen- und Giroverbandes (DSGV-Haftungsverbund)</link:label>
@@ -310,13 +310,13 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x104" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">DE - BVR Institutssicherung GmbH</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x104" xlink:to="label_eba_x104" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x105" xlink:label="loc_eba_x105" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x105" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">GR - Ταμείο Εγγύησης Καταθέσεων και Επενδύσεων</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x105" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">GR - ?a�e?? ?????s?? ?ata??se?? ?a? ?pe?d?se??</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x105" xlink:to="label_eba_x105" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x106" xlink:label="loc_eba_x106" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x106" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">HU - Országos Betétbiztosítási Alap</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x106" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">HU - Orsz�gos Bet�tbiztos�t�si Alap</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x106" xlink:to="label_eba_x106" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x107" xlink:label="loc_eba_x107" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x107" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">IS - Tryggingarsjóður innstæðueigenda og fjárfesta</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x107" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">IS - Tryggingarsj��ur innst��ueigenda og fj�rfesta</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x107" xlink:to="label_eba_x107" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x108" xlink:label="loc_eba_x108" />
     <link:label xlink:type="resource" xlink:label="label_eba_x108" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">IE - Irish Deposit Protection Scheme</link:label>
@@ -328,16 +328,16 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x110" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">IT - Fondo di Garanzia dei Depositanti del Credito Cooperativo</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x110" xlink:to="label_eba_x110" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x111" xlink:label="loc_eba_x111" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x111" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">LV - Latvijas Noguldījumu garantiju fonds</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x111" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">LV - Latvijas Noguldijumu garantiju fonds</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x111" xlink:to="label_eba_x111" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x112" xlink:label="loc_eba_x112" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x112" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">LI - Einlagensicherungs- und Anlegerentschädigungs-Stiftung SV</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x112" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">LI - Einlagensicherungs- und Anlegerentsch�digungs-Stiftung SV</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x112" xlink:to="label_eba_x112" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x113" xlink:label="loc_eba_x113" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x113" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">LT - Indėlių ir investicijų draudimas</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x113" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">LT - Indeliu ir investiciju draudimas</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x113" xlink:to="label_eba_x113" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x114" xlink:label="loc_eba_x114" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x114" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">LU - Fond de garantie des Dépôts Luxembourg</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x114" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">LU - Fond de garantie des D�p�ts Luxembourg</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x114" xlink:to="label_eba_x114" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x115" xlink:label="loc_eba_x115" />
     <link:label xlink:type="resource" xlink:label="label_eba_x115" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">MT - Depositor Compensation Scheme</link:label>
@@ -352,10 +352,10 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x118" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">PL - Bankowy Fundusz Gwarancyjny</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x118" xlink:to="label_eba_x118" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x119" xlink:label="loc_eba_x119" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x119" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">PT - Fundo de Garantia de Depósitos</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x119" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">PT - Fundo de Garantia de Dep�sitos</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x119" xlink:to="label_eba_x119" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x120" xlink:label="loc_eba_x120" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x120" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">PT - Fundo de Garantia do Crédito Agrícola Mútuo</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x120" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">PT - Fundo de Garantia do Cr�dito Agr�cola M�tuo</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x120" xlink:to="label_eba_x120" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x121" xlink:label="loc_eba_x121" />
     <link:label xlink:type="resource" xlink:label="label_eba_x121" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">RO - Fondul de Garantare a Depozitelor in Sistemul Bancar</link:label>
@@ -367,10 +367,10 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x123" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SI - Banka Slovenije</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x123" xlink:to="label_eba_x123" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x124" xlink:label="loc_eba_x124" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x124" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">ES - Fondo de Garantía de Depósitos de Entidades de Crédito</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x124" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">ES - Fondo de Garant�a de Dep�sitos de Entidades de Cr�dito</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x124" xlink:to="label_eba_x124" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x125" xlink:label="loc_eba_x125" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x125" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SE - Riksgälden</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x125" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SE - Riksg�lden</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x125" xlink:to="label_eba_x125" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x126" xlink:label="loc_eba_x126" />
     <link:label xlink:type="resource" xlink:label="label_eba_x126" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">UK - Financial Services Compensation Scheme</link:label>
@@ -919,13 +919,13 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x345" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">ML: [2-3 countries]</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x345" xlink:to="label_eba_x345" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x346" xlink:label="loc_eba_x346" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x346" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">L: ≤1 country</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x346" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">L: =1 country</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x346" xlink:to="label_eba_x346" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x347" xlink:label="loc_eba_x347" />
     <link:label xlink:type="resource" xlink:label="label_eba_x347" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Crossborder indicators based on share of crossborder activity</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x347" xlink:to="label_eba_x347" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x348" xlink:label="loc_eba_x348" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x348" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">H: ≥25%</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x348" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">H: =25%</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x348" xlink:to="label_eba_x348" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x349" xlink:label="loc_eba_x349" />
     <link:label xlink:type="resource" xlink:label="label_eba_x349" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">MH: [15 - 25%)</link:label>
@@ -946,7 +946,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x354" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">ML: &gt;=10 and &lt;20 competitors</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x354" xlink:to="label_eba_x354" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x355" xlink:label="loc_eba_x355" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x355" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">L: ≥20  competitors</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x355" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">L: =20  competitors</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x355" xlink:to="label_eba_x355" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x357" xlink:label="loc_eba_x357" />
     <link:label xlink:type="resource" xlink:label="label_eba_x357" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">H: &gt;6 months</link:label>

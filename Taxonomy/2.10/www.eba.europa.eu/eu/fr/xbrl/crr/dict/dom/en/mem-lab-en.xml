@@ -1,4 +1,4 @@
-ï»¿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?taxonomy-version 2.10.0.0 ?> <?taxonomy-set-overall-version 2.10.0.0 ?>
 <!--(C) EBA-->
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
@@ -70,7 +70,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x121" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Bursa de Valori Bucaresti</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x121" xlink:to="label_eba_x121" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x122" xlink:label="loc_eba_x122" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x122" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Burza cennÃ½ch papÃ­rÅ¯ Praha, a.s. (Prague Stock Exchange)</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x122" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Burza cenných papíru Praha, a.s. (Prague Stock Exchange)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x122" xlink:to="label_eba_x122" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x123" xlink:label="loc_eba_x123" />
     <link:label xlink:type="resource" xlink:label="label_eba_x123" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Canadian depository for securities (CDS)</link:label>
@@ -100,13 +100,13 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x131" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Central Depository and Central Registry</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x131" xlink:to="label_eba_x131" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x132" xlink:label="loc_eba_x132" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x132" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Centralna klirinÅ¡ko depotna druÅ¾ba (KDD)</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x132" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Centralna klirinško depotna družba (KDD)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x132" xlink:to="label_eba_x132" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x133" xlink:label="loc_eba_x133" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x133" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CentrÃ¡lnÃ­ depozitÃ¡r cennÃ½ch papÃ­ru SR a.s. (CDCP) / Central Depository of Securities Prague</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x133" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Centrální depozitár cenných papíru SR a.s. (CDCP) / Central Depository of Securities Prague</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x133" xlink:to="label_eba_x133" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x134" xlink:label="loc_eba_x134" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x134" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CentrÃ¡lny DepositÃ¡r CennÃ½ch Papierov (CDCP) SR</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x134" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Centrálny Depositár Cenných Papierov (CDCP) SR</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x134" xlink:to="label_eba_x134" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x135" xlink:label="loc_eba_x135" />
     <link:label xlink:type="resource" xlink:label="label_eba_x135" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">CENTROlink</link:label>
@@ -154,7 +154,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x149" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Depozitarul Central S.A.</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x149" xlink:to="label_eba_x149" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x150" xlink:label="loc_eba_x150" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x150" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Deutsche BÃ¶rse AG</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x150" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Deutsche Börse AG</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x150" xlink:to="label_eba_x150" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x151" xlink:label="loc_eba_x151" />
     <link:label xlink:type="resource" xlink:label="label_eba_x151" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">DIAS (Interbanking Systems S.A.)</link:label>
@@ -271,7 +271,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x188" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">IntradagClearing</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x188" xlink:to="label_eba_x188" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x189" xlink:label="loc_eba_x189" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x189" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">IRGiT Izba Rozliczeniowa GieÅ‚d Towarowych S.A (Commodity Clearing House</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x189" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">IRGiT Izba Rozliczeniowa Gield Towarowych S.A (Commodity Clearing House</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x189" xlink:to="label_eba_x189" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x190" xlink:label="loc_eba_x190" />
     <link:label xlink:type="resource" xlink:label="label_eba_x190" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Irish Paper Clearing Company (IPCC)</link:label>
@@ -346,7 +346,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x213" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">MEFF Sociedad Rectora de Productos Derivados S. A.</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x213" xlink:to="label_eba_x213" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x214" xlink:label="loc_eba_x214" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x214" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Mercados de Deuda PÃºblica en Anotaciones</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x214" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Mercados de Deuda Pública en Anotaciones</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x214" xlink:to="label_eba_x214" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x215" xlink:label="loc_eba_x215" />
     <link:label xlink:type="resource" xlink:label="label_eba_x215" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Monte Titoli</link:label>
@@ -355,7 +355,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x216" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">MTS</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x216" xlink:to="label_eba_x216" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x217" xlink:label="loc_eba_x217" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x217" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">NÃ¡rodnÃ½ Centralny Depositar Cennych Papierov (nCDCP) as</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x217" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Národný Centralny Depositar Cennych Papierov (nCDCP) as</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x217" xlink:to="label_eba_x217" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x218" xlink:label="loc_eba_x218" />
     <link:label xlink:type="resource" xlink:label="label_eba_x218" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Nasdaq CSD SE</link:label>
@@ -436,7 +436,7 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x243" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SIMP - PS</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x243" xlink:to="label_eba_x243" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x244" xlink:label="loc_eba_x244" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x244" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SIP SPlatobnÃ½ systÃ©m</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x244" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SIP SPlatobný systém</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x244" xlink:to="label_eba_x244" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x245" xlink:label="loc_eba_x245" />
     <link:label xlink:type="resource" xlink:label="label_eba_x245" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SIX</link:label>
@@ -454,10 +454,10 @@
     <link:label xlink:type="resource" xlink:label="label_eba_x250" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SKD (Short Term Bond System)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x250" xlink:to="label_eba_x250" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x251" xlink:label="loc_eba_x251" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x251" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SNCE (Sistema Nacional de CompensaciÃ³n ElectrÃ³nica)</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x251" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SNCE (Sistema Nacional de Compensación Electrónica)</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x251" xlink:to="label_eba_x251" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x252" xlink:label="loc_eba_x252" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x252" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SociÃ©tÃ© de la Bourse du Luxembourg SA</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x252" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Société de la Bourse du Luxembourg SA</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x252" xlink:to="label_eba_x252" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x253" xlink:label="loc_eba_x253" />
     <link:label xlink:type="resource" xlink:label="label_eba_x253" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">SORBNET2</link:label>

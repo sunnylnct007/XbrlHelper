@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?taxonomy-version 2.10.0.0 ?> <?taxonomy-set-overall-version 2.10.0.0 ?>
 <!--(C) EBA-->
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU1" xlink:type="simple" xlink:href="hier.xsd#eba_CU1" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU2" xlink:type="simple" xlink:href="hier.xsd#eba_CU2" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU3" xlink:type="simple" xlink:href="hier.xsd#eba_CU3" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU3_1" xlink:type="simple" xlink:href="hier.xsd#eba_CU3_1" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU3_2" xlink:type="simple" xlink:href="hier.xsd#eba_CU3_2" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU3_3" xlink:type="simple" xlink:href="hier.xsd#eba_CU3_3" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU3_4" xlink:type="simple" xlink:href="hier.xsd#eba_CU3_4" />
-  <link:presentationLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU1">
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU1" xlink:type="simple" xlink:href="hier.xsd#eba_CU1" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU2" xlink:type="simple" xlink:href="hier.xsd#eba_CU2" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU3" xlink:type="simple" xlink:href="hier.xsd#eba_CU3" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU3_1" xlink:type="simple" xlink:href="hier.xsd#eba_CU3_1" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU3_2" xlink:type="simple" xlink:href="hier.xsd#eba_CU3_2" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU3_3" xlink:type="simple" xlink:href="hier.xsd#eba_CU3_3" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU3_4" xlink:type="simple" xlink:href="hier.xsd#eba_CU3_4" />
+  <link:presentationLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU1">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_CU" xlink:label="loc_eba_CU" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_CU" xlink:to="loc_eba_x0" order="1" />
@@ -86,7 +86,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_HRK" xlink:label="loc_eba_HRK" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_x0" xlink:to="loc_eba_HRK" order="36" />
   </link:presentationLink>
-  <link:presentationLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU2">
+  <link:presentationLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU2">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_CU" xlink:label="loc_eba_CU" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_CU" xlink:to="loc_eba_x0" order="1" />
@@ -141,7 +141,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_HRK" xlink:label="loc_eba_HRK" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_x0" xlink:to="loc_eba_HRK" order="25" />
   </link:presentationLink>
-  <link:presentationLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU3">
+  <link:presentationLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU3">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_CU" xlink:label="loc_eba_CU" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_CU" xlink:to="loc_eba_x0" order="1" />
@@ -470,7 +470,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_ZWL" xlink:label="loc_eba_ZWL" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_x0" xlink:to="loc_eba_ZWL" order="162" />
   </link:presentationLink>
-  <link:presentationLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU3_1">
+  <link:presentationLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU3_1">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_CU" xlink:label="loc_eba_CU" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_CU" xlink:to="loc_eba_x0" order="1" />
@@ -801,7 +801,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x46" xlink:label="loc_eba_x46" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_x0" xlink:to="loc_eba_x46" order="163" />
   </link:presentationLink>
-  <link:presentationLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU3_2">
+  <link:presentationLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU3_2">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_CU" xlink:label="loc_eba_CU" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_CU" xlink:to="loc_eba_x0" order="1" />
@@ -1136,7 +1136,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x46" xlink:label="loc_eba_x46" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_x0" xlink:to="loc_eba_x46" order="165" />
   </link:presentationLink>
-  <link:presentationLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU3_3">
+  <link:presentationLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU3_3">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_CU" xlink:label="loc_eba_CU" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_CU" xlink:to="loc_eba_x0" order="1" />
@@ -1475,7 +1475,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_CNH" xlink:label="loc_eba_CNH" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_x0" xlink:to="loc_eba_CNH" order="167" />
   </link:presentationLink>
-  <link:presentationLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/CU/CU3_4">
+  <link:presentationLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/CU/CU3_4">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_CU" xlink:label="loc_eba_CU" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_eba_CU" xlink:to="loc_eba_x0" order="1" />

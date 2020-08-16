@@ -1,32 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?taxonomy-version 2.10.0.0 ?> <?taxonomy-set-overall-version 2.10.0.0 ?>
 <!--(C) EBA-->
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:model="http://www.eurofiling.info/xbrl/ext/model" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd http://xbrl.org/2005/xbrldt http://www.xbrl.org/2005/xbrldt-2005.xsd http://www.eurofiling.info/xbrl/ext/model http://www.eurofiling.info/eu/fr/xbrl/ext/model.xsd">
   <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:type="simple" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP1" xlink:type="simple" xlink:href="hier.xsd#eba_AP1" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP10" xlink:type="simple" xlink:href="hier.xsd#eba_AP10" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP11" xlink:type="simple" xlink:href="hier.xsd#eba_AP11" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP12" xlink:type="simple" xlink:href="hier.xsd#eba_AP12" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP13" xlink:type="simple" xlink:href="hier.xsd#eba_AP13" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP14" xlink:type="simple" xlink:href="hier.xsd#eba_AP14" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP15" xlink:type="simple" xlink:href="hier.xsd#eba_AP15" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP2" xlink:type="simple" xlink:href="hier.xsd#eba_AP2" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP22" xlink:type="simple" xlink:href="hier.xsd#eba_AP22" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP23" xlink:type="simple" xlink:href="hier.xsd#eba_AP23" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP24" xlink:type="simple" xlink:href="hier.xsd#eba_AP24" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP25" xlink:type="simple" xlink:href="hier.xsd#eba_AP25" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP26" xlink:type="simple" xlink:href="hier.xsd#eba_AP26" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP26_1" xlink:type="simple" xlink:href="hier.xsd#eba_AP26_1" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP27" xlink:type="simple" xlink:href="hier.xsd#eba_AP27" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP28" xlink:type="simple" xlink:href="hier.xsd#eba_AP28" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP3" xlink:type="simple" xlink:href="hier.xsd#eba_AP3" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP4" xlink:type="simple" xlink:href="hier.xsd#eba_AP4" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP5" xlink:type="simple" xlink:href="hier.xsd#eba_AP5" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP6" xlink:type="simple" xlink:href="hier.xsd#eba_AP6" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP7" xlink:type="simple" xlink:href="hier.xsd#eba_AP7" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP8" xlink:type="simple" xlink:href="hier.xsd#eba_AP8" />
-  <link:roleRef roleURI="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP9" xlink:type="simple" xlink:href="hier.xsd#eba_AP9" />
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP1">
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP1" xlink:type="simple" xlink:href="hier.xsd#eba_AP1" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP10" xlink:type="simple" xlink:href="hier.xsd#eba_AP10" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP11" xlink:type="simple" xlink:href="hier.xsd#eba_AP11" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP12" xlink:type="simple" xlink:href="hier.xsd#eba_AP12" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP13" xlink:type="simple" xlink:href="hier.xsd#eba_AP13" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP14" xlink:type="simple" xlink:href="hier.xsd#eba_AP14" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP15" xlink:type="simple" xlink:href="hier.xsd#eba_AP15" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP2" xlink:type="simple" xlink:href="hier.xsd#eba_AP2" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP22" xlink:type="simple" xlink:href="hier.xsd#eba_AP22" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP23" xlink:type="simple" xlink:href="hier.xsd#eba_AP23" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP24" xlink:type="simple" xlink:href="hier.xsd#eba_AP24" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP25" xlink:type="simple" xlink:href="hier.xsd#eba_AP25" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP26" xlink:type="simple" xlink:href="hier.xsd#eba_AP26" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP26_1" xlink:type="simple" xlink:href="hier.xsd#eba_AP26_1" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP27" xlink:type="simple" xlink:href="hier.xsd#eba_AP27" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP28" xlink:type="simple" xlink:href="hier.xsd#eba_AP28" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP3" xlink:type="simple" xlink:href="hier.xsd#eba_AP3" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP4" xlink:type="simple" xlink:href="hier.xsd#eba_AP4" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP5" xlink:type="simple" xlink:href="hier.xsd#eba_AP5" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP6" xlink:type="simple" xlink:href="hier.xsd#eba_AP6" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP7" xlink:type="simple" xlink:href="hier.xsd#eba_AP7" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP8" xlink:type="simple" xlink:href="hier.xsd#eba_AP8" />
+  <link:roleRef roleURI="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP9" xlink:type="simple" xlink:href="hier.xsd#eba_AP9" />
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP1">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -41,7 +41,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x67" xlink:label="loc_eba_x67" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x27" xlink:to="loc_eba_x67" order="2" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP10">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP10">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -56,7 +56,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x2" xlink:label="loc_eba_x2" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x54" xlink:to="loc_eba_x2" order="4" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP11">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP11">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -69,7 +69,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x38" xlink:label="loc_eba_x38" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x55" xlink:to="loc_eba_x38" order="3" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP2">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP2">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -94,7 +94,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x1" xlink:label="loc_eba_x1" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x36" xlink:to="loc_eba_x1" order="1" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP22">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP22">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -105,7 +105,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x27" xlink:label="loc_eba_x27" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x45" xlink:to="loc_eba_x27" order="2" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP5">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP5">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -154,7 +154,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x26" xlink:label="loc_eba_x26" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x56" xlink:to="loc_eba_x26" order="2" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP7">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP7">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -171,7 +171,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x17" xlink:label="loc_eba_x17" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x29" xlink:to="loc_eba_x17" order="3" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP8">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP8">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -186,7 +186,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x68" xlink:label="loc_eba_x68" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x58" xlink:to="loc_eba_x68" order="4" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP9">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP9">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -203,7 +203,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x64" xlink:label="loc_eba_x64" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x11" xlink:to="loc_eba_x64" order="5" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP23">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP23">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x45" xlink:label="loc_eba_x45" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x45" order="1" />
@@ -212,14 +212,14 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x27" xlink:label="loc_eba_x27" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x45" xlink:to="loc_eba_x27" order="2" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP24">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP24">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x38" xlink:label="loc_eba_x38" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x38" order="1" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x76" xlink:label="loc_eba_x76" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x76" order="2" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP25">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP25">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -230,7 +230,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x76" xlink:label="loc_eba_x76" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x51" xlink:to="loc_eba_x76" order="1" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP6">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP6">
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x0" order="1" />
@@ -239,7 +239,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x60" xlink:label="loc_eba_x60" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x0" xlink:to="loc_eba_x60" order="2" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP3">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP3">
     <link:documentation model:fromDate="2015-06-30" model:creationDate="2014-10-31" />
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
@@ -247,7 +247,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x78" xlink:label="loc_eba_x78" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x0" xlink:to="loc_eba_x78" order="1" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP4">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP4">
     <link:documentation model:fromDate="2015-06-30" model:creationDate="2014-10-31" />
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x46" xlink:label="loc_eba_x46" />
@@ -261,7 +261,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x11" xlink:label="loc_eba_x11" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x46" xlink:to="loc_eba_x11" order="4" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP12">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP12">
     <link:documentation model:fromDate="2015-04-01" model:creationDate="2014-10-31" />
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x83" xlink:label="loc_eba_x83" />
@@ -273,7 +273,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x86" xlink:label="loc_eba_x86" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x86" order="4" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP13">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP13">
     <link:documentation model:fromDate="2015-04-01" model:creationDate="2014-10-31" />
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x87" xlink:label="loc_eba_x87" />
@@ -283,7 +283,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x89" xlink:label="loc_eba_x89" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x89" order="3" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP14">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP14">
     <link:documentation model:fromDate="2015-04-01" model:creationDate="2014-10-31" />
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x90" xlink:label="loc_eba_x90" />
@@ -293,7 +293,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x92" xlink:label="loc_eba_x92" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x92" order="3" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP26">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP26">
     <link:documentation model:fromDate="2015-04-01" model:creationDate="2014-10-31" />
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x18" xlink:label="loc_eba_x18" />
@@ -319,7 +319,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x79" xlink:label="loc_eba_x79" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_AP" xlink:to="loc_eba_x79" order="9" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP27">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP27">
     <link:documentation model:fromDate="2016-12-31" model:creationDate="2016-01-15" model:modificationDate="2019-11-15" />
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x109" xlink:label="loc_eba_x109" />
@@ -335,7 +335,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x40" xlink:label="loc_eba_x40" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x109" xlink:to="loc_eba_x40" order="5" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP26_1">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP26_1">
     <link:documentation model:fromDate="2017-06-30" model:creationDate="2016-11-15" />
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x0" xlink:label="loc_eba_x0" />
@@ -349,7 +349,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x79" xlink:label="loc_eba_x79" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x0" xlink:to="loc_eba_x79" order="4" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP15">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP15">
     <link:documentation model:fromDate="2018-12-31" model:creationDate="2018-01-01" model:modificationDate="2019-04-30" />
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x133" xlink:label="loc_eba_x133" />
@@ -367,7 +367,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x1" xlink:label="loc_eba_x1" />
     <link:definitionArc xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_eba_x134" xlink:to="loc_eba_x1" order="5" />
   </link:definitionLink>
-  <link:definitionLink xlink:type="extended" xlink:role="http://www.eba.europa.eu/xbrl/crr/role/dict/dom/AP/AP28">
+  <link:definitionLink xlink:type="extended" xlink:role="https://sunnylnct007.github.io/XbrlHelper/Taxonomy/2.10/xbrl/crr/role/dict/dom/AP/AP28">
     <link:documentation model:fromDate="2019-09-30" model:creationDate="2019-07-31" />
     <link:loc xlink:type="locator" xlink:href="../exp.xsd#eba_AP" xlink:label="loc_eba_AP" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x152" xlink:label="loc_eba_x152" />

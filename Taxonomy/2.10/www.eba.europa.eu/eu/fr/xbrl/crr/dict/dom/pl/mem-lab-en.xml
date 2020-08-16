@@ -1,4 +1,4 @@
-ï»¿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?taxonomy-version 2.10.0.0 ?> <?taxonomy-set-overall-version 2.10.0.0 ?>
 <!--(C) EBA-->
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
@@ -36,7 +36,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x11" xlink:label="loc_eba_x11" />
     <link:label xlink:type="resource" xlink:label="label_eba_x11" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Banking book</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x11" xlink:to="label_eba_x11" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x11_1" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/documentation">CRR 4 Â¶86</link:label>
+    <link:label xlink:type="resource" xlink:label="label_eba_x11_1" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/documentation">CRR 4 ¶86</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x11" xlink:to="label_eba_x11_1" />
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x12" xlink:label="loc_eba_x12" />
     <link:label xlink:type="resource" xlink:label="label_eba_x12" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Cash and cash balances at central banks and other demand deposits</link:label>
@@ -155,7 +155,7 @@
     <link:loc xlink:type="locator" xlink:href="mem.xsd#eba_x51" xlink:label="loc_eba_x51" />
     <link:label xlink:type="resource" xlink:label="label_eba_x51" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/label">Trading book</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_eba_x51" xlink:to="label_eba_x51" />
-    <link:label xlink:type="resource" xlink:label="label_eba_x51_1" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/documentation">CRR 4 Â¶86
+    <link:label xlink:type="resource" xlink:label="label_eba_x51_1" xml:lang="en" xlink:role="http://www.xbrl.org/2003/role/documentation">CRR 4 ¶86
 CRR 102
 CRR 103
 CRR 104
